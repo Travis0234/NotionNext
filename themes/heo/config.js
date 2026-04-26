@@ -41,11 +41,10 @@ const CONFIG = {
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
     '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
+    '💪 好用机场分享人',
     '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
+    '🌏 全球节点点亮人',
     '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
   ],
 
   // 个人资料底部按钮
@@ -116,7 +115,7 @@ const CONFIG = {
     }
   ],
 
-  HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
+  HEO_SOCIAL_CARD: false, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
@@ -131,9 +130,9 @@ const CONFIG = {
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
   HEO_MENU_INDEX: true, // 显示首页
-  HEO_MENU_CATEGORY: true, // 显示分类
+  HEO_MENU_CATEGORY: false, // 显示分类
   HEO_MENU_TAG: true, // 显示标签
-  HEO_MENU_ARCHIVE: true, // 显示归档
+  HEO_MENU_ARCHIVE: false, // 显示归档
   HEO_MENU_SEARCH: true, // 显示搜索
 
   HEO_POST_LIST_COVER: true, // 列表显示文章封面
