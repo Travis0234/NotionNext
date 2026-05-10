@@ -8,8 +8,9 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: '/' },
-    { title: 'Welcome to My Blog', url: '/' }
+    { title: '欢迎来到 Travis 的博客', url: '/' },
+    { title: 'Welcome to Travis Blog', url: '/' }
+    { title: '科学上网 技术分享 机场推荐', url: '/' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -21,8 +22,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '机场测评',
   HEO_HERO_TITLE_2: '解锁全球网络',
   HEO_HERO_TITLE_3: 'TRAVISBLOG.QZZ.IO',
-  HEO_HERO_TITLE_4: '推荐：FlowerCloud',
-  HEO_HERO_TITLE_5: '稳定、高速、好用、性价比高！',
+  HEO_HERO_TITLE_4: 'TRAVIS BLOG',
+  HEO_HERO_TITLE_5: 'Evaluation & Recommendations',
   HEO_HERO_TITLE_LINK: '/',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
@@ -42,7 +43,6 @@ const CONFIG = {
     '你好！我是',
     '🔍 分享与热心帮助',
     '💪 好用机场分享人',
-    '🏃 脚踏实地行动派',
     '🌏 全球节点点亮人',
     '🤖️ 数码科技爱好者',
   ],
