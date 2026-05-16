@@ -9,7 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到 Travis 的博客', url: '/' },
-    { title: 'Welcome to Travis Blog', url: '/' }
+    { title: 'Welcome to Travis Blog', url: '/' },
     { title: '科学上网 技术分享 机场推荐', url: '/' }
   ],
 
@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '解锁全球网络',
   HEO_HERO_TITLE_3: 'TRAVISBLOG.QZZ.IO',
   HEO_HERO_TITLE_4: 'TRAVIS BLOG',
-  HEO_HERO_TITLE_5: 'Evaluation & Recommendations',
+  HEO_HERO_TITLE_5: '精选推荐',
   HEO_HERO_TITLE_LINK: '/',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
@@ -41,7 +41,7 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
-    '🔍 分享与热心帮助',
+    '🔍 技术分享好心人',
     '💪 好用机场分享人',
     '🌏 全球节点点亮人',
     '🤖️ 数码科技爱好者',
